@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "gambar": "gambar/baju1.jpeg",
+      "nama": "Baju Muslim",
+      "harga": "Rp.100.000",
+      "ukuran": "L",
+      "contact": "<p> Email:adminjualanbaju.com </p> <p> Phone:123456789 </p> <p>Address:Jl.Ahmad Yani No.0 Surabaya </p>"
+    },
+    {
+      "id": 2,
+      "gambar": "gambar/baju2.jpeg",
+      "nama": "Baju Kemeja",
+      "harga": "Rp.80.000",
+      "ukuran": "L",
+      "contact": "<p> Email:adminkemeja.com </p> <p> Phone:081575735 </p> <p>Address:Jl.Laweyan No.1 Surakarta </p>"
+    },
+    {
+      "id": 3,
+      "gambar": "gambar/baju3.jpeg",
+      "nama": "Kaos",
+      "harga": "Rp.60.000",
+      "ukuran": "L",
+      "contact": "<p> Email:kaosoblong.com </p> <p> Phone:081557634 </p> <p>Address:Jl.Pisang No.2 Boyolali </p>"
+    },
+    {
+      "id": 4,
+      "gambar": "gambar/baju4.jpeg",
+      "nama": "Gamis ",
+      "harga": "Rp.150.000",
+      "ukuran": "L",
+      "contact": "<p> Email:bajumuslim.com </p> <p> Phone:081768954 </p> <p>Address:Jl.kemerdekaan No.11 Surabaya </p>"
+    },
+    {
+      "id": 5,
+      "gambar": "gambar/baju5.jpeg",
+      "nama": "Baju Anak-anak ",
+      "harga": "Rp.50.000",
+      "ukuran": "L",
+      "contact": "<p> Email:bajuanak_anak.com </p> <p> Phone:083562467 </p> <p>Address:Jl.Sengkuni No.20 Surabaya </p>"
+    }
+  ]
